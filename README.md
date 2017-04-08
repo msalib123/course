@@ -1,4 +1,4 @@
-The script analysis.R performs the following and is used to create final_tidy.txt:
+The script run_analysis.R performs the following and is used to create final_tidy.txt:
 
 Merges the training and the test sets to create one data set.
 Extracts only the measurements on the mean and standard deviation for each measurement.
