@@ -6,6 +6,8 @@ Transformations
 
 -mean and -sd were replaced respectively with with Mean and Std in the measurements below
 
+mean(value) column name created for eacch variable as mean of variable
+
 Identifiers
 
 subject - The ID of the test subject
